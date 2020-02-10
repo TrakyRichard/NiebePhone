@@ -1,0 +1,69 @@
+body{
+    position: absolute;
+    width: 100%;
+}
+
+.carouselItems{
+    height: auto;
+}
+
+.priority{
+    height: 200px;
+    background: url("https://source.unsplash.com/random/500x500"), #30200ed5;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: overlay;
+    color: rgb(255, 255, 255)!important;
+    font-weight: bold;
+}
+.imgCommingSoon{
+    position: absolute;
+    right: 0;
+    height: 30px!important;
+}
+
+.videoPlay{
+    color: white;
+}
+
+.iconPlay{
+    margin-top: 50px;
+    color: white;
+}
+
+.newsLetter{
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.formContact{
+    display: flex;
+    justify-content: center;
+}
+
+.footerPage{
+    height: 50px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.footer{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    z-index: 1000;
+}
+
+.AboutJumbotrom{
+    height: 200px;
+    background: url("https://source.unsplash.com/random/500x500"), #30200ed5;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: overlay;
+    color: rgb(255, 255, 255)!important;
+    font-weight: bold;
+}
